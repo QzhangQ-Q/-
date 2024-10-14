@@ -17,4 +17,4 @@ gantt
     完成專案      : a11,after a10,5d
     繳交專案      : after a11,4d
 ```
-![petg](https://github.com/Kayu10/homework/blob/main/graphviz%20(2).png)
+![petg](https://github.com/QzhangQ-Q/-/blob/main/graphviz%20(2).png)
