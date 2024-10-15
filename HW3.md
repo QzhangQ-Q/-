@@ -17,4 +17,4 @@
 >3.可用性與擴展性：系統應能在高峰期同時處理上千份問卷提交，且在高負載情況下不會出現崩潰或性能嚴重下降的情況。
 
 
-![petg]
+![petg](https://github.com/QzhangQ-Q/-/blob/main/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
